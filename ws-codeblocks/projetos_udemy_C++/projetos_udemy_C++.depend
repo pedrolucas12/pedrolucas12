@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\temp\ws-codeblocks\projetos_udemy_c++\main.cpp
+	<iostream>
+
+1638891177 source:c:\temp\ws-codeblocks\projetos_udemy_c++\primeiro.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
