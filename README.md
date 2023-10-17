@@ -1,4 +1,3 @@
-https://pedro-lucas-santana.odoo.com
 - 👋 Hi, I’m @pedrolucas12
 - 👀 I’m interested in change the world
 - 🌱 I’m currently learning about programming languages
