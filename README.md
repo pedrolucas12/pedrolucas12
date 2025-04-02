@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/seu-usuario/sua-imagem.png" alt="Sua Foto" width="200">
-
   <h1>Olá, Mundo! 👋 Eu sou Pedro Lucas Santana</h1>
 
   <p>Engenheiro de Software FullStack apaixonado por criar soluções inovadoras e de alta qualidade. 
